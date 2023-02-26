@@ -1,6 +1,6 @@
 {
   "name": "@slova/cli",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "CLI placeholder tool for generating non-existing words",
   "author": "Domin-MND",
   "bin": {
